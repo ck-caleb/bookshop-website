@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+/* VARIABLES */
+:root{
+    /* color variables */
+    --title-color:rgb(1, 1, 44);
+    --text-color:rgb(21, 21, 58);
+    --test-color:rgb(21, 21, 58);
+    /* font variables */
+    --title-font:50px;
+    --text-font:30px
+    --subtitle-font:40px;
+
+}
+section{
+    min-height: 100vh;
+
+}
+/* SHOP PAGE STYLES */
+/* BLOG PAGE STYLES */
+/* ABOUT US STYLES */
+/* CONTACT PAGE STYLES */
